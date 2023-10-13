@@ -61,5 +61,3 @@ ATTRIBUTES
 * books no
 * issue/return
 
-staff -> readers,books,login,reports
-books -> publisher
